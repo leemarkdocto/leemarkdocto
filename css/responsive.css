@@ -264,6 +264,9 @@
   #header .header-content img {
     margin-top: 50%;
   }
+  .header-content h1 {
+    font-size: 32px;
+  }
   /* About */
   .head-info .header-content h1 {
     font-size: 32px;
