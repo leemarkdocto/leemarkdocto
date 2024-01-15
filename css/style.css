@@ -292,6 +292,7 @@ nav ul li a {
 .header-content img {
   width: 45%;
   margin: auto;
+  border-radius: 100%;
 }
 /*-----------------------------------------------------------------------------------*/
 /*  Aout-us
